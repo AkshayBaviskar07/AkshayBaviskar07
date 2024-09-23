@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Akshay Baviskar!
 
 ### 🚀 About Me
-I'm a passionate **Backend Developer** with a strong foundation in **Java technologies** and frameworks like **Spring Boot**, **Spring MVC**, and **Spring Data JPA**. I love building scalable **microservices**-based applications and have experience in **full-stack development** with a focus on performance optimization.
+I'm a passionate **Backend Developer** with a strong foundation in **Java technologies** and frameworks like **Spring Boot**, **Spring MVC**, and **Spring Data JPA**. I love building scalable **microservices**-based applications with a focus on performance optimization.
 
 ### 🛠️ Tech Stack:
 - 🖥️ **Languages**: Java ☕, SQL 🗃️
